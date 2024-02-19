@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>111891c847a002107b8ea3b3416d43cd</logo>
+        <menu/>
+        <name>Wish List</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1301315_wish_lis</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Create personal wish lists</short_description>
+        <source>x_1301315_wish_lis</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 07:23:51</sys_created_on>
+        <sys_id>d01891c4472002107b8ea3b3416d435c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 07:23:55</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=d01891c4472002107b8ea3b3416d435c"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>wishlist.png</file_name>
+        <hash>febaf7f560b123a1ed981c93cbe3438f450c2498e0b92aa0fefa70794403235a</hash>
+        <image_height>148</image_height>
+        <image_width>171</image_width>
+        <size_bytes>1602</size_bytes>
+        <size_compressed>1625</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 07:23:54</sys_created_on>
+        <sys_id>111891c847a002107b8ea3b3416d43cd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 07:23:55</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>d01891c4472002107b8ea3b3416d435c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="wishlist.png" sys_id="111891c847a002107b8ea3b3416d43cd">111891c847a002107b8ea3b3416d43cd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 07:23:54</sys_created_on>
+        <sys_id>511891c847a002107b8ea3b3416d43cd</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2156</length>
+        <position>1</position>
+        <sys_attachment display_value="wishlist.png" sys_id="111891c847a002107b8ea3b3416d43cd">111891c847a002107b8ea3b3416d43cd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 07:23:54</sys_created_on>
+        <sys_id>d11891c847a002107b8ea3b3416d43cd</sys_id>
+    </sys_attachment_doc>
+</record_update>
